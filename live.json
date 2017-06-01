@@ -1,0 +1,159 @@
+{
+  "lastUpdatedTime": 1496311796940,
+  "TTL": 1,
+  "filters": [
+
+  ],
+  "Replays": {
+    "matches": [
+
+    ],
+    "errors": [
+
+    ],
+    "success": false,
+    "hasLive": false,
+    "text": "السابقة",
+    "selected": false
+  },
+  "Today": {
+    "matches": [
+      {
+        "matchId": 2390237,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:30 KSA",
+        "matchDateTime": "2017-06-01T20:30:00",
+        "homeTeamId": 6773,
+        "awayTeamId": 6770,
+        "roundName": "الجولة 25",
+        "homeTeamName": "الرائد",
+        "awayTeamName": "الأهلي",
+        "homeScore": 1,
+        "awayScore": 3,
+        "hasPenality": true,
+        "homePenaltyScore": 5,
+        "awayPenaltyScore": 3,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      },
+      {
+        "matchId": 2390233,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:50 KSA",
+        "matchDateTime": "2017-06-01T20:50:00",
+        "homeTeamId": 1316,
+        "awayTeamId": 6777,
+        "roundName": "الجولة 25",
+        "homeTeamName": "الاتحاد",
+        "awayTeamName": "الفيصلي",
+        "homeScore": 2,
+        "awayScore": 2,
+        "hasPenality": false,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      },
+      {
+        "matchId": 2390234,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:50 KSA",
+        "matchDateTime": "2017-06-01T20:50:00",
+        "homeTeamId": 6847,
+        "awayTeamId": 1317,
+        "roundName": "الجولة 25",
+        "homeTeamName": "الوحدة",
+        "awayTeamName": "الهلال",
+        "homeScore": 1,
+        "awayScore": 3,
+        "hasPenality": false,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      },
+      {
+        "matchId": 2390235,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:50 KSA",
+        "matchDateTime": "2017-06-01T20:50:00",
+        "homeTeamId": 6775,
+        "awayTeamId": 5680,
+        "roundName": "الجولة 25",
+        "homeTeamName": "القادسية",
+        "awayTeamName": "الاتفاق",
+        "homeScore": 1,
+        "awayScore": 1,
+        "hasPenality": false,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      },
+      {
+        "matchId": 2390238,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:50 KSA",
+        "matchDateTime": "2017-06-01T20:50:00",
+        "homeTeamId": 1364,
+        "awayTeamId": 6772,
+        "roundName": "الجولة 25",
+        "homeTeamName": "الخليج",
+        "awayTeamName": "الفتح",
+        "homeScore": 1,
+        "awayScore": 1,
+        "hasPenality": false,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      },
+      {
+        "matchId": 2390239,
+        "seasonId": 12615,
+        "seasonName": "دوري جميل",
+        "status": "Playing",
+        "matchDate": "2017-06-01",
+        "matchTime": "20:50 KSA",
+        "matchDateTime": "2017-06-01T20:50:00",
+        "homeTeamId": 6778,
+        "awayTeamId": 9623,
+        "roundName": "الجولة 25",
+        "homeTeamName": "التعاون",
+        "awayTeamName": "الباطن",
+        "homeScore": 4,
+        "awayScore": 3,
+        "hasPenality": false,
+        "elapsedTimePercentage": 0,
+        "statusName": "مباشر"
+      }
+    ],
+    "errors": [
+
+    ],
+    "GmtServerTime": "2017-06-01",
+    "success": true,
+    "hasLive": true,
+    "text": "اليوم",
+    "selected": true
+  },
+  "Upcoming": {
+    "matches": [
+
+    ],
+    "errors": [
+
+    ],
+    "success": false,
+    "hasLive": false,
+    "text": "القادمة",
+    "selected": false
+  }
+}
